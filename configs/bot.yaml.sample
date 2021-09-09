@@ -1,0 +1,10 @@
+frequency: 5000
+timeout: 100000
+notify:
+  discord:
+    # generate from https://discord.com/developers/applications -> Bot
+    token: '****************************************'
+    channelId: '123123123123123'
+tasks:
+  - id: 1
+    coin: eth
